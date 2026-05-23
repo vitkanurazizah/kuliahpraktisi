@@ -11,7 +11,7 @@ st.set_page_config(
 st.title("viezzh")
 st.header("when ya")
 st.subheader("when ya")
-st.caption("Made with ❤️ using Streamlit")
+st.caption("how r u?")
 st.write("Hello, *im mermaid!* :🧜🏻:")
 
 title = st.text_input("Movie title", "Life of Brian")
