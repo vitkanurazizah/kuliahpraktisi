@@ -8,7 +8,7 @@ st.set_page_config(
 
 
 # Hirarki teks
-st.title("📊 Dashboard")
+st.title("viezzh")
 st.header("Laporan Bulanan")
 st.subheader("📈 Monthly Expenses")
 st.caption("Made with ❤️ using Streamlit")
