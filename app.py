@@ -17,8 +17,8 @@ st.write("Hello, *im mermaid!* :🧜🏻:")
 title = st.text_input("Movie title", "Life of Brian")
 st.write("The current movie title is", title)
 
-if st.button("Say hello"):
-    st.write("Why hello there")
+if st.button("hey r u still there"):
+    st.write("good")
 else:
     st.write("Goodbye")
 
