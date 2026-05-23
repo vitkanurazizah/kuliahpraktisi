@@ -9,7 +9,7 @@ st.set_page_config(
 
 # Hirarki teks
 st.title("viezzh")
-st.header("Laporan Bulanan")
+st.header("when ya")
 st.subheader("📈 Monthly Expenses")
 st.caption("Made with ❤️ using Streamlit")
 st.write("Hello, *im mermaid!* :🧜🏻:")
