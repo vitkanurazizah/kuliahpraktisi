@@ -20,7 +20,7 @@ st.write("The current movie title is", title)
 if st.button("hey r u still there?"):
     st.write("good")
 else:
-    st.write("maybe")
+    st.write("goodbye")
 
 
 st.button("Reset", type="primary")
